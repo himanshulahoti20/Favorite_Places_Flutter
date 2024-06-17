@@ -39,7 +39,7 @@ class _MapScreenState extends State<MapScreen> {
                   Navigator.of(context).pop(_pickedLocation);
                 }
               },
-              icon: const Icon(Icons.save),
+              icon: const Icon(Icons.check),
             ),
         ],
       ),
